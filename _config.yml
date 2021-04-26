@@ -1,5 +1,6 @@
-baseurl: /blog
-# Markdown
-markdown:     kramdown
-kramdown:
-input:      GFM
+#baseurl: /blog
+## Markdown
+#markdown:     kramdown
+#kramdown:
+#input:      GFM
+theme: jekyll-theme-cayman
